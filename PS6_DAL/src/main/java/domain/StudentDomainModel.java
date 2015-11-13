@@ -13,7 +13,7 @@ public class StudentDomainModel  {
 	private Date DOB;
 	
 	
-	protected StudentDomainModel() {
+	public StudentDomainModel() {
 	}
 
 	/**
